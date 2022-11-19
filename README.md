@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- Eu sou o Atircio Matias, tenho 18 anos de idade-
+- Eu sou o Atircio Matias, tenho 18 anos de idade
 - Técnico médio de Gestão de Redes e Sistemas Informáticos.
 
 <div align="center">
