@@ -1,8 +1,16 @@
 ### Hi there 👋
 
 
-- Eu sou o Atircio Matias, tenho 18 anos de idade
-- Técnico médio de Gestão de Redes e Sistemas Informáticos.
+- Eu sou o Atircio Matias.
+- Programador back-end.
+- ------ TECNOLOGIA --------
+- JAVA
+- SPRING BOOT
+- JAVASCRIPT
+- JPA
+- SQL
+- API RESTFUL
+- REACT.JS
 
 <div align="center">
   <a href="https://github.com/atircio">
