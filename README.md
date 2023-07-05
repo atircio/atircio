@@ -4,13 +4,10 @@
 - Eu sou o Atircio Matias.
 - Programador back-end.
 - ------ TECNOLOGIA --------
-- JAVA
-- SPRING BOOT
-- JAVASCRIPT
-- JPA
-- SQL
-- API RESTFUL
-- REACT.JS
+- Web: HTML, CSS, JavaScript, TypeScript
+- Frameworks: React.js, Node.js, Spring Boot
+- Git, JSON, POO (Programação Orientada a Objetos)
+- Metodologia SOLID
 
 <div align="center">
   <a href="https://github.com/atircio">
