@@ -21,8 +21,7 @@
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
-  <img align="center" width="48" height="48" src="https://img.icons8.com/officel/16/react.png" alt="react"/>
-  <img align="center" width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
+<img align="center" width="96" height="96" src="https://img.icons8.com/external-others-amoghdesign/96/external-react-native-soleicons-fill-vol-1-others-amoghdesign.png" alt="external-react-native-soleicons-fill-vol-1-others-amoghdesign"/>  <img align="center" width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
