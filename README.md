@@ -1,5 +1,5 @@
 # 💫 About Me:
-♨ Midlevel Software Engineer at Globasoangola<br>👯 I’m looking to collaborate on big challenges<br>🌱 I’m currently learning AWS<br>💬 Ask me about anything<br>🌐 Passionate about development<br>💡 Love a good challenge<br>
+I’m looking to collaborate on big challenges<br>🌱 I’m currently learning AWS<br>💬 Ask me about anything<br>🌐 Passionate about development<br>💡 Love a good challenge<br>
 
 
 ## 🌐 Socials:
