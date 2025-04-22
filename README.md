@@ -34,7 +34,7 @@ Clone of a digital wallet system inspired by PicPay's public backend challenge.
 ✅ Transfers via CPF  
 ✅ Transaction history & balance update  
 🧪 *JUnit tests and frontend under development*  
-🔗 [View project](https://github.com/atircio/pickpay)
+🔗 [View project](https://github.com/atircio/picpay-challenge)
 
 ---
 
@@ -42,7 +42,7 @@ Clone of a digital wallet system inspired by PicPay's public backend challenge.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atirciomatias)  
 📧 Email: atmatias12@gmail.com  
-🌍 Portfolio: *Coming soon!*  
+🌍 Portfolio: [Click](https://atirciomatias.netlify.app/)
 
 ---
 
