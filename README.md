@@ -1,16 +1,75 @@
-# 💫 About Me:
-I’m looking to collaborate on big challenges<br>🌱 I’m currently learning AWS<br>💬 Ask me about anything<br>🌐 Passionate about development<br>💡 Love a good challenge<br>
+# 💫 About Me
 
+Hi there! I'm **Atírcio Matias**, a Junior Backend Developer from **Luanda, Angola**, passionate about building impactful software solutions.  
+I currently work at **Globasoangola**, where I design and implement backend systems that integrate modern license plate printing technology with secure and scalable APIs.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Atírcio#8274) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atircio_atm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atirciomatias) 
+🌍 I'm driven by real-world challenges and love working on systems that make a difference.  
+🔧 I specialize in **Java**, **Spring Boot**, **RESTful APIs**, and **PostgreSQL**, and I’m always looking to sharpen my skills and learn new technologies.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=atircio&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+---
 
-### ✍️ Random Dev Quote
+### 🚀 Current Focus
+
+- 📦 Building robust backend applications using **Spring Boot & PostgreSQL**
+- 🧪 Writing unit tests with **JUnit** and **Mockito**
+- ⚙️ Ensuring API security with authentication/authorization mechanisms
+- 📈 Learning cloud technologies (**currently exploring AWS**)
+- 🖥️ Planning to implement frontend interfaces for my backend systems using **React.js**
+
+---
+
+## 📂 Featured Projects
+
+### 🔧 Globaso - License Plate Management System  
+A web-based system for ordering license plates, built for internal use at Globasoangola.  
+**Tech stack:** Java, Spring Boot, PHP, PostgreSQL, Bootstrap  
+✅ Secure user authentication and authorization  
+✅ Integration with physical license plate printing machine  
+✅ Agile development with unit testing and code reviews  
+
+### 💸 PicPay Backend Challenge  
+Clone of a digital wallet system inspired by PicPay's public backend challenge.  
+**Tech stack:** Java, Spring Boot, PostgreSQL, JPA, Postman  
+✅ User types: Common and Merchant  
+✅ Transfers via CPF  
+✅ Transaction history & balance update  
+🧪 *JUnit tests and frontend under development*  
+🔗 [View project](https://github.com/atircio/pickpay)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atirciomatias)  
+📧 Email: atmatias12@gmail.com  
+🌍 Portfolio: *Coming soon!*  
+
+---
+
+# 💻 Tech Stack
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![JUnit](https://img.shields.io/badge/junit-%23FFA500.svg?style=for-the-badge&logo=junit5&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=atircio&theme=gruvbox&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=atircio&theme=gruvbox&hide_border=false&show_icons=true&count_private=true)
+
+---
+
+### ✍️ Dev Quote of the Day
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+<!-- Profile generated with ❤️ by ChatGPT & GPRM (https://gprm.itsvg.in) -->
