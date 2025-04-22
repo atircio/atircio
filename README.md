@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Hi there! I'm **Atírcio Matias**, a Junior Backend Developer from **Luanda, Angola**, passionate about building impactful software solutions.  
+Hi there! I'm **Atírcio Matias**, a Junior Backend Developer, passionate about building impactful software solutions.  
 
 
 🌍 I'm driven by real-world challenges and love working on systems that make a difference.  
