@@ -1,7 +1,7 @@
 # 💫 About Me
 
 Hi there! I'm **Atírcio Matias**, a Junior Backend Developer from **Luanda, Angola**, passionate about building impactful software solutions.  
-I currently work at **Globasoangola**, where I design and implement backend systems that integrate modern license plate printing technology with secure and scalable APIs.
+
 
 🌍 I'm driven by real-world challenges and love working on systems that make a difference.  
 🔧 I specialize in **Java**, **Spring Boot**, **RESTful APIs**, and **PostgreSQL**, and I’m always looking to sharpen my skills and learn new technologies.
