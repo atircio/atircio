@@ -1,52 +1,54 @@
-# 💫 About Me
+# 💫 About Me  
 
-Hi there! I'm **Atírcio Matias**, a Junior Backend Developer, passionate about building impactful software solutions.  
+Hi there! I'm **Atírcio Matias**, a Backend Developer passionate about building impactful and reliable software solutions.  
 
-
-🌍 I'm driven by real-world challenges and love working on systems that make a difference.  
-🔧 I specialize in **Java**, **Spring Boot**, **RESTful APIs**, and **PostgreSQL**, and I’m always looking to sharpen my skills and learn new technologies.
-
----
-
-### 🚀 Current Focus
-
-- 📦 Building robust backend applications using **Spring Boot & PostgreSQL**
-- 🧪 Writing unit tests with **JUnit** and **Mockito**
-- ⚙️ Ensuring API security with authentication/authorization mechanisms
-- 📈 Learning cloud technologies (**currently exploring AWS**)
-- 🖥️ Planning to implement frontend interfaces for my backend systems using **React.js**
+🌍 I enjoy solving real-world challenges and contributing to systems that improve people’s lives.  
+🔧 My expertise is in **Java**, **Spring Boot**, and **REST APIs**, but I’m constantly learning and exploring new technologies.  
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Current Focus  
+
+- 📦 Building robust backend applications with **Spring Boot & PostgreSQL**  
+- 🧪 Writing unit and integration tests with **JUnit & Mockito**  
+- 🔐 Strengthening API security with authentication/authorization mechanisms  
+- ☁️ Exploring **AWS** and cloud deployments  
+- 🖥️ Expanding skills into frontend with **React.js & Angular**  
+
+---
+
+## 📂 Featured Projects  
 
 ### 🔧 Globaso - License Plate Management System  
-A web-based system for ordering license plates, built for internal use at Globasoangola.  
-**Tech stack:** Java, Spring Boot, PHP, PostgreSQL, Bootstrap  
-✅ Secure user authentication and authorization  
-✅ Integration with physical license plate printing machine  
-✅ Agile development with unit testing and code reviews  
+A secure web-based system for ordering and managing license plates at **Globasoangola**.  
+**Tech stack:** Java, Spring Boot, PHP, PostgreSQL, Bootstrap, Angular  
+✅ Secure authentication and authorization  
+✅ REST API integration with physical license plate printing machine  
+✅ Agile collaboration with daily stand-ups, code reviews, and unit testing  
+
+---
 
 ### 💸 PicPay Backend Challenge  
-Clone of a digital wallet system inspired by PicPay's public backend challenge.  
+A digital wallet clone inspired by PicPay’s public backend challenge.  
 **Tech stack:** Java, Spring Boot, PostgreSQL, JPA, Postman  
 ✅ User types: Common and Merchant  
-✅ Transfers via CPF  
-✅ Transaction history & balance update  
-🧪 *JUnit tests and frontend under development*  
-🔗 [View project](https://github.com/atircio/picpay-challenge)
+✅ Secure money transfers by CPF  
+✅ Transaction history & balance management  
+🧪 Includes JUnit tests (frontend under development)  
+🔗 [View project](https://github.com/atircio/picpay-challenge)  
 
 ---
 
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atirciomatias)  
-📧 Email: atmatias12@gmail.com  
-🌍 Portfolio: [Click](https://atirciomatias.netlify.app/)
+### 🛠️ FixMyStreet - Community Issue Reporter (WIP)  
+A collaborative platform for reporting local problems (potholes, leaks, etc.), allowing citizens to engage with their community.  
+**Tech stack:** Spring Boot, PostgreSQL, Angular, AWS (planned)  
+✅ Users can post issues with details and categories  
+✅ Reactions and comments on community posts  
+✅ Future cloud deployment for scalability  
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack  
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
@@ -55,20 +57,29 @@ Clone of a digital wallet system inspired by PicPay's public backend challenge.
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats
+## 🌐 Connect with Me  
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=atircio&theme=gruvbox&hide_border=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=atircio&theme=gruvbox&hide_border=false&show_icons=true&count_private=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atirciomatias)  
+📧 Email: **atmatias12@gmail.com**  
+🌍 Portfolio: [atirciomatias.netlify.app](https://atirciomatias.netlify.app/)  
 
 ---
 
-### ✍️ Dev Quote of the Day
+# 📊 GitHub Stats  
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=atircio&theme=gruvbox&hide_border=false&layout=compact)  
+![](https://github-readme-stats.vercel.app/api?username=atircio&theme=gruvbox&hide_border=false&show_icons=true&count_private=true)  
+
+---
+
+### ✍️ Dev Quote of the Day  
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)  
 
 ---
 
