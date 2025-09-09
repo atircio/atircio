@@ -68,12 +68,6 @@ A collaborative platform for reporting local problems (potholes, leaks, etc.), a
 📧 Email: **atmatias12@gmail.com**  
 🌍 Portfolio: [atirciomatias.netlify.app](https://atirciomatias.netlify.app/)  
 
----
-
-# 📊 GitHub Stats  
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=atircio&theme=gruvbox&hide_border=false&layout=compact)  
-![](https://github-readme-stats.vercel.app/api?username=atircio&theme=gruvbox&hide_border=false&show_icons=true&count_private=true)  
 
 ---
 
